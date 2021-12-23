@@ -5,5 +5,5 @@ The aim of this project is to automatically convert numbers in an excel file int
 proper time formats. For example:  
 1100 -> 11:00  
 1234 -> 12:34  
-725  -> 07:25  
+ 725 -> 07:25    
 etc.  
